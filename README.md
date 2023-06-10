@@ -34,3 +34,7 @@ The solution creates a stack for each country to store earthquake data. It trave
 ### Problem 3: Most Recent Earthquakes above 6 Magnitude
 
 The solution creates a linked list to store the most recent earthquake from each country. It traverses the country stacks and creates a node in the linked list for each earthquake with a magnitude above 6. The new node is set as the head of the linked list.
+
+## Conclusion
+
+This project demonstrates how to read earthquake data from a CSV file, implement custom queue and stack data structures, and solve various problems related to earthquake analysis. By following the instructions in the usage section, you can run the program and observe the solutions to the three given problems.
